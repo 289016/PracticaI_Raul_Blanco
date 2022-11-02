@@ -18,6 +18,7 @@ public class Ejercicio2 {
             //declaracion de la constante numero Pi
             final double Pi = 3.1416;
 
+
             //representamos las formulas de cada caso
             switch (operacion) {
                 case 1:
